@@ -1,1 +1,2 @@
-# This is a test project for future work.
+# Smartchain
+This is a test for future work.
