@@ -1,4 +1,7 @@
 # Electricity Exchange System based on Blockchain
 
->*This is a test for future work*.
+*A blockchian-related project.*
+*Aiming to realize a decentralized open transaction open market.*
 
+The rough mind map for the future work.
+![EESB](/doc/EESB.png)
